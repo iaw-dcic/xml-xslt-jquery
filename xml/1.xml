@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<articulos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	 <articulo>
+	 	<titulo>Titulo 1</titulo>
+	 	<fecha_creacion>2002-09-24</fecha_creacion>
+		<usuario_autor>yo</usuario_autor>
+		<NroID>1</NroID>
+		<publicado>true</publicado>
+		<palabras>
+	    	<palabra_clave>palabra clave 1</palabra_clave>
+	  	</palabras>
+		<palabras>
+	    	<palabra_clave>palabra clave 2</palabra_clave>
+	  	</palabras>
+		<comentarios>
+			<comentario>
+				<texto>comentario 1</texto>
+				<fecha>2010-05-12</fecha>
+				<usuario>otro yo</usuario>
+			</comentario>
+		</comentarios>
+		<comentarios>
+			<comentario>
+				<texto>comentario 2</texto>
+				<fecha>2010-05-12</fecha>
+				<usuario>yo 3</usuario>
+			</comentario>
+		</comentarios>
+		<categoria>categoria 1</categoria>
+		<idioma>french</idioma>	
+	 </articulo>
+
+	 <articulo>
+	 	<titulo>Titulo 2</titulo>
+	 	<fecha_creacion>2002-09-25</fecha_creacion>
+		<usuario_autor>yo 4</usuario_autor>
+		<NroID>2</NroID>
+		<publicado>true</publicado>
+		<palabras>
+	    	<palabra_clave>palabra clave 3</palabra_clave>
+	  	</palabras>
+		<palabras>
+	    	<palabra_clave>palabra clave 4</palabra_clave>
+	  	</palabras>	
+		<comentarios>
+			<comentario>
+				<texto>comentario 3</texto>
+				<fecha>2010-05-11</fecha>
+				<usuario>yo 1</usuario>
+			</comentario>
+		</comentarios>
+		<comentarios>
+			<comentario>
+				<texto>comentario 4</texto>
+				<fecha>2010-06-12</fecha>
+				<usuario>yo 5</usuario>
+			</comentario>
+		</comentarios>
+		<categoria>categoria 2</categoria>
+		<idioma>spanish</idioma>	
+	 </articulo>
+
+	 <articulo>
+	 	<titulo>Titulo 3</titulo>
+	 	<fecha_creacion>2012-09-24</fecha_creacion>
+		<usuario_autor>yo 4</usuario_autor>
+		<NroID>3</NroID>
+		<publicado>true</publicado>
+		<palabras>
+	    	<palabra_clave>palabra clave 5</palabra_clave>
+	  	</palabras>
+		<palabras>
+	    	<palabra_clave>palabra clave 6</palabra_clave>
+	  	</palabras>
+		<comentarios>
+			<comentario>
+				<texto>comentario 5</texto>
+				<fecha>2008-05-12</fecha>
+				<usuario>yo 2</usuario>
+			</comentario>
+		</comentarios>
+		<comentarios>
+			<comentario>
+				<texto>comentario 6</texto>
+				<fecha>2011-05-12</fecha>
+				<usuario>yo 7</usuario>
+			</comentario>
+		</comentarios>
+		<categoria>categoria 3</categoria>
+		<idioma>english</idioma>	
+	 </articulo>
+</articulos>

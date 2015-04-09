@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articulos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="esquema.xsd">
+  <articulo publicado="si">
+    <titulo>The Big Bang Theory</titulo>
+    <fecha_creacion>
+      <dia>7</dia>
+      <mes>4</mes>
+      <anio>2011</anio>
+      <hora>2</hora>
+      <minutos>34</minutos>
+    </fecha_creacion>
+    <usuario>
+      <alias>Fanatico</alias>
+    </usuario>
+    <ID>848347rufil298r0</ID>
+    <palabrasClave>Series Descargas Comedia Humor</palabrasClave>
+    <categoria>espectaculos</categoria>
+    <idioma>ingles</idioma>
+    <texto>
+      <texto>Leonard and Sheldon are brilliant physicists, the kind of "beautiful minds" that understand how the universe works. But none of that genius helps them interact with people, especially women. All this begins to change when a free-spirited beauty named Penny moves in next door. Sheldon, Leonard's roommate, is quite content spending his nights playing Klingon Boggle with their socially dysfunctional friends, fellow CalTech scientists Wolowitz and Koothrappali. However, Leonard sees in Penny a whole new universe of possibilities... including love.</texto>
+    </texto>
+    <comentario>
+      <texto>Engineering. Where the noble semiskilled laborers execute the vision of those who think and dream. Hello, Oompa-Loompas of science.</texto>
+      <usuario>
+        <nombre>Sheldon</nombre>
+        <apellido>Cooper</apellido>
+        <alias>Shelly</alias>
+      </usuario>
+      <fecha>
+        <dia>7</dia>
+        <mes>4</mes>
+        <anio>2011</anio>
+        <hora>3</hora>
+        <minutos>14</minutos>
+      </fecha>
+    </comentario>
+    <comentario>
+    	<texto>Would someone please turn off the Sheldon commentary track?</texto>
+    	<usuario>
+    		<alias>Leonard</alias>
+    	</usuario>
+    	<fecha>
+    		<dia>7</dia>
+    		<mes>4</mes>
+    		<anio>2011</anio>
+    		<hora>8</hora>
+    		<minutos>05</minutos>
+    	</fecha>
+    </comentario>
+  </articulo>
+  <articulo publicado="si">
+  	<titulo>Cuestion de Triangulos</titulo>
+  	<fecha_creacion>
+  		<dia>3</dia>
+  		<mes>5</mes>
+  		<anio>1997</anio>
+  		<hora>16</hora>
+  		<minutos>56</minutos>
+  	</fecha_creacion>
+  	<usuario>
+  		<alias>Mr Plow</alias>
+  	</usuario>
+  	<ID>lkrj12oirfke</ID>
+  	<palabrasClave>ciencia</palabrasClave>
+  	<categoria>ciencia</categoria>
+  	<idioma>espaniol</idioma>
+  	<texto>
+  		<texto>La suma de las raices cuadradas de dos lados de un triangulo isosceles es igual a la raiz cuadrada del lado restante</texto>
+  	</texto>
+  	<comentario>
+  		<texto>Eso es el equilatero!</texto>
+  		<usuario>
+  			<alias>Nerd_del_baño</alias>
+  		</usuario>
+  		<fecha>
+  			<dia>3</dia>
+  			<mes>5</mes>
+  			<anio>1997</anio>
+  			<hora>17</hora>
+  			<minutos>0</minutos>
+  		</fecha>
+  	</comentario>
+  	<comentario>
+  		<texto>Dough!!!</texto>
+  		<usuario>
+  			<alias>Mr Plow</alias>
+  		</usuario>
+  		<fecha>
+  			<dia>3</dia>
+  			<mes>5</mes>
+  			<anio>1997</anio>
+  			<hora>18</hora>
+  			<minutos>06</minutos>
+  		</fecha>
+  	</comentario>
+  </articulo>
+  
+  <articulo publicado="no">
+  	<titulo>Vulnerabilidades reportadas y corregidas en sitio web ESET Latinoamerica</titulo>
+  	<fecha_creacion>
+  		<dia>6</dia>
+  		<mes>4</mes>
+  		<anio>20011</anio>
+  		<hora>15</hora>
+  		<minutos>17</minutos>
+  	</fecha_creacion>
+  	<usuario>
+  		<alias>blogzerial</alias>
+  	</usuario>
+  	<ID>sdfjkfkl231546</ID>
+  	<palabrasClave>hacking seguridad vulnerable</palabrasClave>
+  	<categoria>noticias</categoria>
+  	<idioma>espaniol</idioma>
+  	<texto>
+  		<texto>
+		El fin de semana recien pasado, nos juntamos en el laboratorio en una “hacking night” analizando vulnerabilidades web de varios sitios, entre ellos estuvo el de ESET Latinoamerica.
+		La vulnerabilidades encontradas fueron del tipo “descubrimiento de informacion” que nos permitieron descubrir el path, el usuario de sistema, usuario de base de datos, nombre de la base de datos, nombres de las tablas, etc. Por otro lado, encontramos tambien script y formularios vulnerables a XSS.
+Las vulnerabilidades fueron corregidas 1 dia despues de haber sido reportadas.
+Las URLs afectadas son:
+
+- http://www.eset-la.com/centro-amenazas/article.php
+- http://www.eset-la.com/company/article.php
+- http://www.eset-la.com/rss/podcasts
+- http://www.eset-la.com/centro-amenazas/descarga/compania/cool_stuff.php
+- http://www.eset-la.com/xtrasappz/ajax/events.ajax.php
+- https://ps.eset-la.com/forms/prospectos.php
+- https://ps.eset-la.com/forms/numeros_serie_registracion.php
+
+Estas dos ultimas con https.
+		</texto>
+  	</texto>
+  	<comentario>
+  		<texto>O sea, que mi antivirus es un colador?!?!</texto>
+  		<usuario>
+  			<alias>newnoobuser</alias>
+  		</usuario>
+  		<fecha>
+  			<dia>7</dia>
+  			<mes>4</mes>
+  			<anio>2011</anio>
+  			<hora>17</hora>
+  			<minutos>35</minutos>
+  		</fecha>
+  	</comentario>
+  	<comentario>
+  		<texto>@newnoobuser no te hagas problema: como dice arriba, todas las vulnerabilidades se corrigieron al día siguiente de reportadas!</texto>
+  		<usuario>
+  			<alias>blogzerial</alias>
+  		</usuario>
+  		<fecha>
+  			<dia>7</dia>
+  			<mes>4</mes>
+  			<anio>2011</anio>
+  			<hora>20</hora>
+  			<minutos>24</minutos>
+  		</fecha>
+  	</comentario>
+	  	<comentario>
+  		<texto>ahh, gracias! perdon, pero soy medio noob en esto todavia. Prefiero los articulos sobre Big Bang Theory</texto>
+  		<usuario>
+  			<alias>newnoobuser</alias>
+  		</usuario>
+  		<fecha>
+  			<dia>7</dia>
+  			<mes>4</mes>
+  			<anio>2011</anio>
+  			<hora>23</hora>
+  			<minutos>01</minutos>
+  		</fecha>
+  	</comentario>
+  </articulo>
+</articulos>

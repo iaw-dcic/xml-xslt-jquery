@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<articulos>
+    <articulo>
+    	<titulo> Primer titulo </titulo>
+    	<fecha_creacion> 4/7/2011 </fecha_creacion>
+    	<id> 1 </id> 
+    	<pals_clave> tito y juan </pals_clave>
+    	<categoria> vals </categoria>
+    	<Texto>
+    		<idioma> Ingles </idioma>
+    		<texto> Hello word </texto>
+    	</Texto>
+    	<publicado> "true" </publicado>
+    	<Lista_De_Comentarios>
+    		<Comentario>
+    			<comment> zaraza </comment>
+    			<usuario> yo </usuario>
+    			<fecha> 4/7/2011 </fecha>
+    		</Comentario>
+    		<Comentario>
+    			<comment> zaraza2 </comment>
+    			<usuario> yo </usuario>
+    			<fecha> 4/7/2011 </fecha>
+    		</Comentario>
+    	</Lista_De_Comentarios>
+    </articulo>
+    
+    <articulo>
+    	<titulo> segundo titulo </titulo>
+    	<fecha_creacion> 4/7/2011 </fecha_creacion>
+    	<id> 1 </id> 
+    	<pals_clave> tito y juan </pals_clave>
+    	<categoria> vals </categoria>
+    	<Texto>
+    		<idioma> Ingles </idioma>
+    		<texto> Hello word </texto>
+    	</Texto>
+    	<publicado> "true" </publicado>
+    	<Lista_De_Comentarios>
+    		<Comentario>
+    			<comment> zaraza </comment>
+    			<usuario> yo </usuario>
+    			<fecha> 4/7/2011 </fecha>
+    		</Comentario>
+    		<Comentario>
+    			<comment> zaraza2 </comment>
+    			<usuario> yo </usuario>
+    			<fecha> 4/7/2011 </fecha>
+    		</Comentario>
+    	</Lista_De_Comentarios>
+    </articulo>
+    
+    <articulo>
+    	<titulo> tercer titulo </titulo>
+    	<fecha_creacion> 4/7/2011 </fecha_creacion>
+    	<id> 1 </id> 
+    	<pals_clave> tito y juan </pals_clave>
+    	<categoria> vals </categoria>
+    	<Texto>
+    		<idioma> Ingles </idioma>
+    		<texto> Hello word </texto>
+    	</Texto>
+    	<publicado> "false" </publicado>
+    	<Lista_De_Comentarios>
+    		<Comentario>
+    			<comment> zaraza </comment>
+    			<usuario> yo </usuario>
+    			<fecha> 4/7/2011 </fecha>
+    		</Comentario>
+    		<Comentario>
+    			<comment> zaraza2 </comment>
+    			<usuario> yo </usuario>
+    			<fecha> 4/7/2011 </fecha>
+    		</Comentario>
+    	</Lista_De_Comentarios>
+    </articulo>
+</articulos>
